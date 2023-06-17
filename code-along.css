@@ -1,7 +1,16 @@
 * {
   border: 1px solid teal;
 }
+ul {
+  display: flex;
+  list-style-type: none;
+  flex: 1;
+}
 
+.watercolor-9, .watercolor-10 {
+  display: flex;
+  justify-content: 
+}
 nav {
   /*display: none;*/
 }
